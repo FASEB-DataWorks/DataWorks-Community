@@ -3,7 +3,7 @@
 ![Fellows Icon](https://user-images.githubusercontent.com/90872869/133942013-f7f7062e-6a0d-45da-91d3-6e40b44ae03f.png "FASEB DataWorks! Fellows Program icon")
 
 
-Data sharing and re-use is increasingly understood as necessary to support rigor and reproducibility in scientific research. However, even within research groups, how data are collected, stored, and shared is often left to individual researchers who themselves are not trained in data sharing standards and techniques. The DataWorks! Capacity Program develops expertise in data sharing and re-use for biological and biomedical researchers and teams through focused training and service experiences. An embedded ambassador alumni program with ongoing professional development and networking fosters community engagement, practice adoption, and new career options. Nominations and application review criteria reflect and support FASEB’s diversity, equity, accessibility, and inclusion goals.  
+Data sharing and re-use is increasingly understood as necessary to support rigor and reproducibility in scientific research. However, even within research groups, how data are collected, stored, and shared is often left to individual researchers who themselves are not trained in data sharing standards and techniques. The DataWorks! Capacity Program develops expertise in data sharing and re-use for biological and biomedical researchers and teams through focused training and service experiences. An embedded ambassador alumni program with ongoing professional development and networking fosters community engagement, practice adoption, and new career options. Nominations and application review criteria reflect and support FASEB’s diversity, equity, accessibility, and inclusion goals. *Nominations forms will be available starting in November 2021.* 
 
 ## Research teams 
 (available starting January 2022)
@@ -31,5 +31,8 @@ We are exploring content and professional development partnerships with the Data
 
 *Capacity:* 1 group of 10 people, once a year.  Stipend provided. 
 
-## More information
-Please [contact FASEB](https://faseb.org/About-FASEB/Contact-FASEB) for more information about these programs. Nominations forms will be available in November 2021.  
+# Join the Conversation!
+
+FASEB is a recent entry into the data sharing and re-use ecosystem, and as such  we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding for the Capacity Program and the Catalyzing Data Re-Use Prize.
+
+**Interested in partnering with FASEB? Want to learn more? For more information, please [contact FASEB](https://faseb.org/About-FASEB/Contact-FASEB).**
