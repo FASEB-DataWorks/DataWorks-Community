@@ -6,19 +6,16 @@ DataWorks! Community enables biological and biomedical researchers and teams to 
 
 Data sharing and reuse is increasingly understood as necessary to support rigor and reproducibility in scientific research. However, even within research groups, how data are collected, stored, and shared is often left to individual researchers who themselves are not trained in data sharing standards and techniques. The DataWorks! Capacity Program develops expertise in data sharing and reuse for biological and biomedical researchers and teams through focused training and service experiences. An embedded ambassador alumni program with ongoing professional development and networking fosters community engagement, practice adoption, and new career options. Nominations and application review criteria reflect and support FASEB’s diversity, equity, accessibility, and inclusion goals. 
 
-*Nominations forms are now available!* 
-
 ## Research teams 
-(starting January 2022)
 
 **Goal:  Develop team-science skills in cohorts of mentored groups.**
-A course for research groups to explore and implement social and technical infrastructure for team work, including team charters, open project plans, document sharing facilities, and basic coding skills.  Provided in collaboration with [Openscapes](https://openscapes.org)
+An online course for research groups to explore and implement social and technical infrastructure for team work, including team charters, open project plans, document sharing facilities, and basic coding skills.  Provided in collaboration with [Openscapes](https://openscapes.org)
 
-*Eligibility:* Research groups (PI(s) and team members) are invited to self-nominate.
+Nominations are now open for the DataWorks! OpenScapes Champions program!  This professional development opportunity for research groups in the biological and biomedical sciences to develop leadership in open research data practices.  The program will be carried out remotely through a series of videoconferences, asynchronous assignments, and online mentoring.  Sponsored by FASEB DataWorks!, there is no fee to participate.  
 
-*Time Commitment:*  10-15% time over 2 months.  This program will be carried out remotely through a series of videoconferences, asynchronous assignments, and online mentoring.
+**To learn more, see 
 
-*Capacity:* 8 groups of 5 people, once a year.  No fee, but groups must have at least one person affiliated with a FASEB member society. 
+**To apply, [sign-up here](https://forms.gle/YeDQMbhxaNtMna9SA)!** For more information and guidance about selecting your team, please visit[ openscapes.org/champions](https://www.openscapes.org/champions/).
 
 
 ## Individual researchers 
