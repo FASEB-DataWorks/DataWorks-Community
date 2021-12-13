@@ -1,8 +1,8 @@
 # Building Capacity
 
-![Capacity Icon](https://user-images.githubusercontent.com/90872869/134726335-3fe41af1-e54f-4c07-8d74-601a0cc1e730.png "FASEB DataWorks! Capacity Program icon")
+![DW Community Icon](https://user-images.githubusercontent.com/90872869/145875407-f207624e-1412-4c27-bc82-9f091510e73b.jpg "FASEB DataWorks! Community icon")
 
-Data sharing and reuse is increasingly understood as necessary to support rigor and reproducibility in scientific research. However, even within research groups, how data are collected, stored, and shared is often left to individual researchers who themselves are not trained in data sharing standards and techniques. The DataWorks! Capacity Program develops expertise in data sharing and reuse for biological and biomedical researchers and teams through focused training and service experiences. An embedded ambassador alumni program with ongoing professional development and networking fosters community engagement, practice adoption, and new career options. Nominations and application review criteria reflect and support FASEB’s diversity, equity, accessibility, and inclusion goals. *Nominations forms will be available starting in November 2021.* 
+Data sharing and reuse is increasingly understood as necessary to support rigor and reproducibility in scientific research. However, even within research groups, how data are collected, stored, and shared is often left to individual researchers who themselves are not trained in data sharing standards and techniques. The DataWorks! Capacity Program develops expertise in data sharing and reuse for biological and biomedical researchers and teams through focused training and service experiences. An embedded ambassador alumni program with ongoing professional development and networking fosters community engagement, practice adoption, and new career options. Nominations and application review criteria reflect and support FASEB’s diversity, equity, accessibility, and inclusion goals. *Nominations forms are now available!* 
 
 ## Research teams 
 (starting January 2022)
