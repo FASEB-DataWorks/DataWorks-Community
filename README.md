@@ -9,13 +9,13 @@ Data sharing and reuse is increasingly understood as necessary to support rigor 
 ## Research teams 
 
 **Goal:  Develop team-science skills in cohorts of mentored groups.**
-An online course for research groups to explore and implement social and technical infrastructure for team work, including team charters, open project plans, document sharing facilities, and basic coding skills.  Provided in collaboration with [Openscapes](https://openscapes.org)
+An online course for research groups to explore and implement social and technical infrastructure for team work, including team charters, open project plans, document sharing facilities, and basic coding skills.  Provided in collaboration with [Openscapes](https://openscapes.org).
 
 Nominations are now open for the DataWorks! OpenScapes Champions program!  This professional development opportunity for research groups in the biological and biomedical sciences to develop leadership in open research data practices.  The program will be carried out remotely through a series of videoconferences, asynchronous assignments, and online mentoring.  Sponsored by FASEB DataWorks!, there is no fee to participate.  
 
 **To learn more, visit the [program page](https://github.com/FASEB-DataWorks/2022-openscapes-champions).**
 
-**To apply, [sign-up here](https://forms.gle/YeDQMbhxaNtMna9SA)!** For more information and guidance about selecting your team, please visit[ openscapes.org/champions](https://www.openscapes.org/champions/).
+**To apply, [sign-up here](https://forms.gle/YeDQMbhxaNtMna9SA) before 7 January 2022!** For more information and guidance about selecting your team, please visit[ openscapes.org/champions](https://www.openscapes.org/champions/). 
 
 
 ## Individual researchers 
