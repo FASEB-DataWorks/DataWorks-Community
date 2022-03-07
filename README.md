@@ -1,6 +1,6 @@
 # DataWorks! Community
 
-![DW Community Icon](https://user-images.githubusercontent.com/90872869/145875407-f207624e-1412-4c27-bc82-9f091510e73b.jpg "FASEB DataWorks! Community icon")
+![FASEB-DATAWorks_Community_RGB-Logo_Gray-Black](https://user-images.githubusercontent.com/90872869/157096090-8041c31b-a57b-417e-9809-1d3ddaf80f14.png "FASEB DataWorks! Community icon")
 
 DataWorks! Community enables biological and biomedical researchers and teams to hone skills and mentor peers in data management and sharing.  *Planned launch in 2022.*
 
